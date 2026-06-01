@@ -1,109 +1,201 @@
-<h1 align="center">Hi there, I'm Santhosh Kumar J 👋</h1>
-<h3 align="center">Software Engineer · .NET Full Stack · Cloud & Web</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:santhoshkumar13061@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SANDY13061"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SANDY13061&style=flat&color=blue" alt="profile views" />
-</p>
+<!-- Animated banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=220&section=header&text=Santhosh%20Kumar%20J&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20.NET%20Full%20Stack%20%C2%B7%20Cloud%20%26%20Web&descSize=18&descAlignY=60&descAlign=50" />
+
+<!-- Animated typing intro -->
+<a href="https://github.com/SANDY13061">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=Hi+there%2C+I'm+Santhosh+%F0%9F%91%8B;.NET+Core+%C2%B7+C%23+%C2%B7+React+%C2%B7+SQL+Server;Building+scalable+REST+APIs+%26+cloud+platforms;2%2B+years+shipping+enterprise+software" alt="Typing intro" />
+</a>
+
+<br/>
+
+<!-- Profile stats badges -->
+<img src="https://komarev.com/ghpvc/?username=SANDY13061&label=Profile+views&color=00D9FF&style=for-the-badge" alt="profile views" />
+<a href="mailto:santhoshkumar13061@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/SANDY13061?tab=followers"><img src="https://img.shields.io/github/followers/SANDY13061?label=Follow&style=for-the-badge&color=181717&logo=github" /></a>
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a Software Engineer with **2+ years** of experience building enterprise-grade applications with **C#, .NET Core, and SQL Server**. I enjoy designing scalable REST APIs, writing clean OOP code, and shipping full-stack features with **React** on the front and **.NET / Node / Python** on the back.
-
-- 🔭 Currently working as **Software Analyst @ Purpledatainc** since Jan 2024
-- 💼 Building cloud cost optimization, ERM, and real-time monitoring systems
-- 🌱 Always learning — currently going deeper on **microservices, FastAPI, and cloud observability**
-- 📫 Reach me at **santhoshkumar13061@gmail.com**
+```yaml
+name:        Santhosh Kumar J
+role:        Software Engineer (.NET Full Stack)
+company:     Purpledatainc · Jan 2024 – Present
+location:    India 🇮🇳
+focus:       C# · .NET Core · SQL Server · React · Cloud
+currently:   Building cloud cost optimization at scale
+learning:    Microservices · FastAPI · Cloud Observability
+contact:     santhoshkumar13061@gmail.com
+fun-fact:    I turn caffeine into REST APIs ☕→🔌
+```
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,js,ts,python,sql,html,css&theme=dark" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,django,fastapi,express&theme=dark" />
 
 **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=flat&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=react,redux,materialui,bootstrap,sass&theme=dark" />
 
 **Database**
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white" />
-</p>
 
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/ServiceNow-00C487?style=flat&logo=servicenow&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+**Cloud · DevOps · Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,vscode,postman,jira&theme=dark" />
+
+</div>
 
 ---
 
-### 💼 What I'm Working On
+## 📊 GitHub Analytics
 
-- **Cloud Cost Optimization Platform** — multi-cloud (AWS / Azure / GCP) billing ingestion, analytics APIs, RBAC, and alerting
-- **Enterprise Resource Management System** — full-stack ASP.NET Core + React app for project tracking & user management
-- **Authentication & Authorization Service** — JWT + RBAC, secure session management for protected APIs
-- **Real-Time Monitoring System** — live data ingestion APIs + visualization dashboards
-- **CRUD Web API** — modular ASP.NET Core API with repository pattern and layered architecture
+<div align="center">
 
----
+<a href="https://github.com/SANDY13061">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SANDY13061&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=460&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
+<a href="https://github.com/SANDY13061">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY13061&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
+</a>
 
-### 🎓 Education & Certifications
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=SANDY13061&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B9D&currStreakLabel=00D9FF" />
+</a>
 
-- 🎓 **B.E. Electronics and Communication Engineering** — Anna University (Thanthai Periyar Govt Institute Of Technology), 2019–2023 · CGPA 7.76
-- 📜 IBM Project Certificate
-- 📜 NPTEL — Problem Solving in C
-- 📜 Python Fullstack (PYSPIDER)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANDY13061&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDY13061&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDY13061&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🏆 GitHub Trophies
 
-- 📧 **Email** — [santhoshkumar13061@gmail.com](mailto:santhoshkumar13061@gmail.com)
-- 💻 **GitHub** — [@SANDY13061](https://github.com/SANDY13061)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SANDY13061&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  </a>
+</div>
 
-<p align="center"><i>Open to interesting full-stack and cloud engineering opportunities.</i></p>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&hide_border=true&custom_title=Contribution+Graph" alt="activity graph" />
+</div>
+
+---
+
+## 💼 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Cost Optimization Platform
+Multi-cloud billing ingestion across **AWS · Azure · GCP**.
+- .NET Core analytics APIs
+- RBAC + alerting engine
+- Apache Superset dashboards
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise Resource Management
+Full-stack **ASP.NET Core + React** app.
+- Project tracking & user mgmt
+- JWT auth + RBAC
+- SQL Server backend
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Authentication & Authorization Service
+Secure auth service with **JWT** tokens.
+- Role-based access control
+- Session management
+- Protected API gateway
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Real-Time Monitoring System
+Live ingestion + visualization.
+- .NET Core streaming APIs
+- React dashboards
+- Live system metrics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td>🎓</td>
+<td><b>B.E. Electronics & Communication Engineering</b><br/>
+Anna University · Thanthai Periyar Govt Institute of Technology<br/>
+<sub>2019 – 2023 · CGPA 7.76</sub></td>
+</tr>
+<tr>
+<td>📜</td>
+<td>IBM Project Certificate</td>
+</tr>
+<tr>
+<td>📜</td>
+<td>NPTEL — Problem Solving in C</td>
+</tr>
+<tr>
+<td>📜</td>
+<td>Python Fullstack (PYSPIDER)</td>
+</tr>
+</table>
+
+---
+
+## 💬 Quote I Live By
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+## 📫 Let's Build Something
+
+<div align="center">
+
+<a href="mailto:santhoshkumar13061@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/SANDY13061">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://wa.me/917358082487">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,30&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
+
+</div>
