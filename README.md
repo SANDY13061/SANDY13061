@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/SANDY13061">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I'm+Santhosh+Kumar+J+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+.NET+Full+Stack;Building+scalable+APIs+%26+cloud+platforms;2%2B+years+shipping+enterprise+software" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=2800&amp;pause=900&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=60&amp;lines=Hi%2C+I'm+Santhosh+Kumar+J+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+.NET+Full+Stack;Building+scalable+APIs+%26+cloud+platforms;2%2B+years+shipping+enterprise+software" alt="intro" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SANDY13061&label=Profile+views&color=2F81F7&style=flat-square" alt="profile views" />
-<a href="mailto:santhoshkumar13061@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/SANDY13061?tab=followers"><img src="https://img.shields.io/github/followers/SANDY13061?label=Follow&style=flat-square&color=2F81F7&logo=github" /></a>
+<img src="https://komarev.com/ghpvc/?username=SANDY13061&amp;label=Profile+views&amp;color=2F81F7&amp;style=flat-square" alt="profile views" />
+<a href="mailto:santhoshkumar13061@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/SANDY13061?tab=followers"><img src="https://img.shields.io/github/followers/SANDY13061?label=Follow&amp;style=flat-square&amp;color=2F81F7&amp;logo=github" /></a>
 
 </div>
 
@@ -31,23 +31,23 @@ Currently working as a **Software Analyst at Purpledatainc**, focused on scalabl
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=cs,js,ts,python,sql&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=cs,js,ts,python,sql&amp;theme=light" /></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,django,fastapi&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,django,fastapi&amp;theme=light" /></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,redux,materialui,html,css&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,redux,materialui,html,css&amp;theme=light" /></td>
 </tr>
 <tr>
 <td><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&amp;theme=light" /></td>
 </tr>
 <tr>
 <td><b>Cloud &amp; DevOps</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,vscode,postman&theme=light" /></td>
+<td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,vscode,postman&amp;theme=light" /></td>
 </tr>
 </table>
 
@@ -59,18 +59,18 @@ Currently working as a **Software Analyst at Purpledatainc**, focused on scalabl
 
 <a href="https://git.io/streak-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SANDY13061&theme=tokyonight&hide_border=true&background=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SANDY13061&theme=default&hide_border=true&background=FFFFFF00" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SANDY13061&theme=default&hide_border=true&background=FFFFFF00" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SANDY13061&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SANDY13061&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF00" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SANDY13061&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF00" />
   </picture>
 </a>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&theme=react-dark&bg_color=0D1117&color=2F81F7&line=2F81F7&point=F75555&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&theme=minimal&bg_color=ffffff&color=2F81F7&line=2F81F7&point=F75555&area=true&hide_border=true" />
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&theme=minimal&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&amp;theme=react-dark&amp;bg_color=0D1117&amp;color=2F81F7&amp;line=2F81F7&amp;point=F75555&amp;area=true&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&amp;theme=minimal&amp;bg_color=ffffff&amp;color=2F81F7&amp;line=2F81F7&amp;point=F75555&amp;area=true&amp;hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SANDY13061&amp;theme=minimal&amp;hide_border=true" />
 </picture>
 
 <br/><br/>
@@ -110,9 +110,9 @@ Currently working as a **Software Analyst at Purpledatainc**, focused on scalabl
 
 <div align="center">
 
-<a href="mailto:santhoshkumar13061@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/SANDY13061"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://wa.me/917358082487"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:santhoshkumar13061@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/SANDY13061"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://wa.me/917358082487"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" /></a>
 
 </div>
 
